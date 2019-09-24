@@ -1,0 +1,9 @@
+문제 화면 직전으로 넘긴다
+프록시 설정 on
+burp suite 의 interrupt on 실행
+문제 화면으로 이동
+burp suite 의 forward 실행
+코드 수정
+한번 더 burp suite 의 forward 실행
+프록시 off
+login 시도
